@@ -71,7 +71,7 @@ const Header: React.FC = () => {
         <div className="container mx-auto flex h-20 items-center justify-between px-4">
           <HomeLink className="flex items-center space-x-2 cursor-pointer">
             <img src={viteLogo} alt="Vite logo" className="h-8 w-8" />
-            <span className="font-bold text-xl text-primary">Afterthinking</span>
+            <span className="font-bold text-xl text-primary">Asterapp</span>
           </HomeLink>
           <nav className="hidden md:flex items-center space-x-8 text-sm font-medium">
             {navItems.map((item) => (

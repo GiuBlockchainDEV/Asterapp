@@ -7,7 +7,7 @@ const Testimonials: React.FC = () => {
   const testimonials = [
     {
       id: 1,
-      text: "Afterthinking ha trasformato la nostra presenza online. Il loro approccio innovativo e l'attenzione ai dettagli hanno portato risultati eccezionali. Altamente raccomandati!",
+      text: "Asterapp ha trasformato la nostra presenza online. Il loro approccio innovativo e l'attenzione ai dettagli hanno portato risultati eccezionali. Altamente raccomandati!",
       name: "Maria Rossi",
       company: "TechItalia Srl",
       image: "https://i.pravatar.cc/150?img=47",
@@ -15,7 +15,7 @@ const Testimonials: React.FC = () => {
     },
     {
       id: 2,
-      text: "Working with Afterthinking was a game-changer for our startup. Their expertise in AI and blockchain helped us create a cutting-edge product that's now leading the market.",
+      text: "Working with Asterapp was a game-changer for our startup. Their expertise in AI and blockchain helped us create a cutting-edge product that's now leading the market.",
       name: "John Smith",
       company: "InnovateTech Inc.",
       image: "https://i.pravatar.cc/150?img=68",
@@ -23,9 +23,9 @@ const Testimonials: React.FC = () => {
     },
     {
       id: 3,
-      text: "L'équipe d'Afterthinking a dépassé toutes nos attentes. Leur approche créative et leur maîtrise technique ont donné vie à notre vision d'une manière que nous n'aurions jamais imaginée.",
+      text: "L'équipe d'Asterapp a dépassé toutes nos attentes. Leur approche créative et leur maîtrise technique ont donné vie à notre vision d'une manière que nous n'aurions jamais imaginée.",
       name: "Sophie Dubois",
-      company: "FutureSoft SARL",
+      company: "Future Soft ltd",
       image: "https://i.pravatar.cc/150?img=41",
       lang: "fr"
     }
